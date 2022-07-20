@@ -4,9 +4,19 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HospitalTracker3/app/src/main/res/drawable/color.xml" value="0.12314814814814815" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HospitalTracker3/app/src/main/res/drawable/ic_baseline_copyright_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HospitalTracker3/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HospitalTracker3/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HospitalTracker3/app/src/main/res/drawable/ic_baseline_youtube_searched_for_24.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HospitalTracker3/app/src/main/res/drawable/ic_map.xml" value="0.2169230769230769" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HospitalTracker3/app/src/main/res/drawable/toolbar_header.xml" value="0.14479166666666668" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HospitalTracker3/app/src/main/res/drawable/web.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HospitalTracker3/app/src/main/res/layout-land/activity_rahsia.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HospitalTracker3/app/src/main/res/layout/activity_about_us.xml" value="0.33" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HospitalTracker3/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HospitalTracker3/app/src/main/res/layout/activity_rahsia.xml" value="0.22" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HospitalTracker3/app/src/main/res/layout/activity_maps.xml" value="0.19655797101449277" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HospitalTracker3/app/src/main/res/layout/activity_rahsia.xml" value="0.33" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HospitalTracker3/app/src/main/res/layout/activity_tracker.xml" value="0.18854166666666666" />
       </map>
     </option>
   </component>

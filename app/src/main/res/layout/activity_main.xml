@@ -48,7 +48,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="16dip"
         android:layout_marginTop="16dip"
-        android:fontFamily="sans-serif"
+        android:fontFamily="@font/poppins"
         android:text="@string/find"
         android:textColor="#FFFFFF"
         android:textSize="16sp"

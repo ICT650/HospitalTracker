@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">HospitalTracker</string>
     <string name="find">Find Your Hospital</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="hyperlink"><a href="https://github.com/ICT650/HospitalTracker">Click here to redirect to web application</a></string>
+
+
 </resources>
